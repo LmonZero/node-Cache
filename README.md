@@ -1,2 +1,1 @@
-# node-Cache
-用js实现 LRU/LFU 缓存算法。。。。
+手撸  LRU LFU 算法
